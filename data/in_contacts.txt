@@ -1,0 +1,6 @@
+Joe Smith jsmith@gmail.com false
+Gregory Smith gregsmith@livemail.com false
+Rachel Garcia gargar@comcast.net true
+Susie Adams sadams@gmail.com true
+Lawrence Williams lolawrence@yahoo.com false
+Jerome Bradley bradleyj@yahoo.com false
